@@ -1,1 +1,3 @@
-baseurl: /haitao_blog
+markdown: rdiscount
+pygments: true
+paginate: 3
